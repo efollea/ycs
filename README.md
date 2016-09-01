@@ -1,2 +1,2 @@
 # ycs
-Yokul Cognitive Sytsem
+Yokul Cognitive Systems
